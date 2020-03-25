@@ -1,6 +1,6 @@
 # Desenvolvimento da API
 
-P ara criarmos o projeto do zero, devemos inicar com e configurar o nosso projeto, adicionando o nome do pacote, a versão, autor e entre outras informações:
+Para criarmos o projeto do zero, devemos inicar com e configurar o nosso projeto, adicionando o nome do pacote, a versão, autor e entre outras informações:
 
 >$ npm init
 
