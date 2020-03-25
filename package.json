@@ -1,0 +1,21 @@
+{
+  "name": "api-semana-omnistack",
+  "version": "1.0.0",
+  "description": "Desenvolvimento da API para implementaçao da aplicaçao mobile e Web",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Josue Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite": "^3.0.6",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
